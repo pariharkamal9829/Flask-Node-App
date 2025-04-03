@@ -24,7 +24,6 @@ pip install flask flask-cors pymongo
 
 
 
-
 2️ Create app.py
 Inside the backend folder, create app.py:
 from flask import Flask, request, jsonify
